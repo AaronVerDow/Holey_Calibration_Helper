@@ -10,4 +10,4 @@ If you are unfamiliar with how to read verneir scales I highly recommend learnin
 
 This one is unusual because it has a second scale going backwards.  This was added because the diagonal measurements got too close to the end of the ruler.  It actually makes it easier to read when the result is right around zero.
 
-![](https://raw.githubusercontent.com/AaronVerDow/Holey_Calibration_Helper/master/pics/overview.jpg)
+![](https://raw.githubusercontent.com/AaronVerDow/Holey_Calibration_Helper/main/pics/overview.jpg)
