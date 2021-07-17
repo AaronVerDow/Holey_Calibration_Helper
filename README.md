@@ -1,2 +1,3 @@
-# Holey_Calibration_Helper
-3d printed parts to help calibrate a Maslow CNC machine
+# Holey Calibration Helper
+
+These parts attach to a $5 48" ruler from Harbor Freight.  They fit into the calibration holes and make it possible to measure center to center in tenths of a milimeter. 
