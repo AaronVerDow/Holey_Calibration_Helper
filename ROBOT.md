@@ -1,1 +1,1 @@
-{ "ModerationLevel": "communityManaged", "Facilitator": "averdow", "Category": "furniture" }
+{ "ModerationLevel": "communityManaged", "Facilitator": "averdow", "Category": "maslow" }
